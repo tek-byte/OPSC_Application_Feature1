@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "528561670263",
+    "firebase_url": "https://fishes-ec-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fishes-ec",
+    "storage_bucket": "fishes-ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528561670263:android:5f62e54f78f98f1e26de72",
+        "android_client_info": {
+          "package_name": "com.example.fishquery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528561670263-eef06nt2h7r110l0k1rtm8iuomehupqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH8OsXHqeZxzYF1ANIU1Bt__JrPNHcJWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528561670263-eef06nt2h7r110l0k1rtm8iuomehupqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
